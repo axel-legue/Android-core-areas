@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Android-cores"
 include(":app")
 include(":navigation")
+include(":permissions")
